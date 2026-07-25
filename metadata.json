@@ -1,0 +1,6 @@
+{
+  "name": "Innovation Gig Platform",
+  "description": "Internal marketplace for contributing skills to selected innovation portal ideas, featuring milestone tracking, applications, and leadership analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
